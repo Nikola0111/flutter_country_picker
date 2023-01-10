@@ -16,6 +16,7 @@ import 'res/strings/np.dart';
 import 'res/strings/pl.dart';
 import 'res/strings/pt.dart';
 import 'res/strings/ru.dart';
+import 'res/strings/sr.dart';
 import 'res/strings/tr.dart';
 import 'res/strings/tw.dart';
 import 'res/strings/uk.dart';
@@ -102,6 +103,8 @@ class CountryLocalizations {
         return lt[countryCode];
       case 'nl':
         return nl[countryCode];
+      case 'sr':
+        return sr[countryCode];
 
       case 'en':
       default:
