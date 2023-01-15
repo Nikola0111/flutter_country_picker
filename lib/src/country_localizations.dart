@@ -136,6 +136,7 @@ class _CountryLocalizationsDelegate
       'hi',
       'ne',
       'tr',
+      'sr',
       'hr',
       'fr',
       'de',
